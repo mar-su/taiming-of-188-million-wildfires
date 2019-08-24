@@ -1,4 +1,4 @@
-# Taiming Of 1.88 Million Wildfires
+# Taming Of 1.88 Million Wildfires
 Analysis of 1.88 Million US Wildfires-dataset on kaggle.
 
 Following questions are analyzed:
