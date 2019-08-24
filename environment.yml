@@ -1,0 +1,12 @@
+name: wildfires
+channels:
+  - conda-forge
+dependencies:
+  - folium
+  - jupyter
+  - numpy
+  - pandas
+  - scikit-learn
+  - pip
+  - matplotlib
+  - pygeohash
