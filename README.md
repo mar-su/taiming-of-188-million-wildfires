@@ -7,6 +7,11 @@ Following questions are analyzed:
 3. Are there seasonal fluctuations? / Wildfires have to occure much more often in summer, haven't they?
 4. Can we predict the size / area of a fire?
 
+Make sure you've seen these visualizations:
+![](figures/evolution_fire-size-over-1500.gif)
+- [Static heatmap of incidents](https://mar-su.github.io/taming-of-188-million-wildfires/figures/overall_fire-size-over-1800.html)
+- [Heatmap of incidents over time](https://mar-su.github.io/taming-of-188-million-wildfires/figures/evolution_fire-size-over-1500.html)
+
 # Getting started
 Set up the environment with [Anaconda](anaconda.org):
 ```
