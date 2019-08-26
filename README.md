@@ -31,7 +31,7 @@ Download the SQLite-database `FPA_FOD_20170508.sqlite` from the kaggle-repositor
 You can find two notebooks in this project.
 * `Taming Of 1.88 Million Wildfires.ipynb` will provide concise answers to the questions above.
 * `EDA.ipynb` provides additional insights and can be seen as home for experiments.
-* Files in `figures` are plots used for the [Medium article]().
+* Files in `figures` are plots used for the [Medium article](https://medium.com/@martin_47009/taiming-1-88-million-wildfires-e2595c43b769).
 * Files in `html` are HTML versions of the notebook(s).
 * `environment.yml` defines the anaconda environment as written above.
 
