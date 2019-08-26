@@ -1,9 +1,11 @@
 # Taming Of 1.88 Million Wildfires
 Analysis of 1.88 Million US Wildfires-dataset on kaggle.
 
+This is the corresponding repository to this [medium article](https://medium.com/@martin_47009/taiming-1-88-million-wildfires-e2595c43b769).
+
 Following questions are analyzed:
 1. Which state is the moste fire prone?
-2. How does the evolution look like and is there a trend? 
+2. How does the evolution look like and is there a trend?
 3. Are there seasonal fluctuations? / Wildfires have to occure much more often in summer, haven't they?
 4. Can we predict the size / area of a fire?
 
